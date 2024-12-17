@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "KlassApplication",
+            "request": "launch",
+            "mainClass": "com.example.klass.KlassApplication",
+            "projectName": ""
+        },
+        {
+            "type": "java",
             "name": "Scrap",
             "request": "launch",
             "mainClass": "com.example.klass.utils.Scrap",
