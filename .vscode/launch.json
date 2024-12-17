@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Scrap",
+            "request": "launch",
+            "mainClass": "com.example.klass.utils.Scrap",
+            "projectName": "klass"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-KlassApplication<klass>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.klass.KlassApplication",
+            "projectName": "klass",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
